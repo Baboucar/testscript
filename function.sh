@@ -4,4 +4,8 @@ add() {
 }
 subtract() {
     echo "Subtract function"
+    echo "Subtract function"
+}
+divide() {
+    echo "Divide function"
 }
